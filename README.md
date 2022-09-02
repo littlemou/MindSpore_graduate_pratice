@@ -1,3 +1,2 @@
 # MindSpore_graduate_pratice
-
-xsd加入
+#9.2新建
